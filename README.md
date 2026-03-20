@@ -1,2 +1,3 @@
-# clawHub
+# claw-hub
+
 AI Agent Hub
